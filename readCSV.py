@@ -6,6 +6,7 @@ import pandas as pd
 #    to read in the CSV and transform it into a better format
 # If no commandLine arguments are passed into it, then it passed the
 #    CSV into pandas.
+# This is an example comment to be deleted 
 def main():
     if (len(sys.argv) > 1):
         # CASE: transform the CSV from the bad input to the better one
